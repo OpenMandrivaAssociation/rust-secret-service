@@ -5,8 +5,8 @@
 %global crate secret-service
 
 Name:           rust-%{crate}
-Version:        1.0.0
-Release:        3%{?dist}
+Version:        5.1.0
+Release:        1%{?dist}
 Summary:        Library to interface with Secret Service API
 
 # Upstream license specification: MIT OR Apache-2.0
